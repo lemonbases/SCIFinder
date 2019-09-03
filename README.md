@@ -10,7 +10,7 @@
 
 
 
-## 数据来源
+## Data source
 
 [InCites Journal Citation Reports](https://jcr.clarivate.com/)
 
