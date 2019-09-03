@@ -14,7 +14,7 @@
 
 [InCites Journal Citation Reports](https://jcr.clarivate.com/)
 
-目前包括1998-2019年SCI/SSCI影响因子
+目前包括1998-2019年SCI/SSCI影响因子等信息
 
 ## Features
 
